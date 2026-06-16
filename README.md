@@ -15,11 +15,11 @@ The memory-efficient data loading layer has been successfully implemented. The s
 
 Key features implemented in this stage:
 
-&emsp;**Data Extraction & Validation:** Each row is parsed into a structured object/collection extracting critical fields: name, id, address, grades, and communication (phone, email).
+* **Data Extraction & Validation:** Each row is parsed into a structured object/collection extracting critical fields: name, id, address, grades, and communication (phone, email).
 
-&emsp;**Filtering Logic:** Strict validation rules are applied. Rows missing essential data (id, name, or at least one method of communication) are automatically filtered out and discarded.
+* **Filtering Logic:** Strict validation rules are applied. Rows missing essential data (id, name, or at least one method of communication) are automatically filtered out and discarded.
 
-&emsp;**Perfomance Metrics (Decorator):** The generator function is wrapped in a custom decorator that tracks processing statistics in real-time. Upon completion, it outputs a concise console summary showing the total number of lines read versus the number of successfully mapped records.
+* **Perfomance Metrics (Decorator):** The generator function is wrapped in a custom decorator that tracks processing statistics in real-time. Upon completion, it outputs a concise console summary showing the total number of lines read versus the number of successfully mapped records.
 
 ## Data Processing Pipeline Stage
 
