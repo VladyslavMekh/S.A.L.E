@@ -44,7 +44,7 @@ class Pipeline:
                             break
 
                 elif step_name == "CHECK_REQUIRED":
-                    args = ["id", "name", "address"]
+                    args = step.get("args", ["id", "name", "address"])
                     if not CheckRequired.run(current_student, args):
                         self.quarantine['CHECK_REQUIRED'].append(current_student.to_dict())
                         passed = False

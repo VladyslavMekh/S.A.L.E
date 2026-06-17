@@ -1,6 +1,6 @@
 [
   {"name": "CHECK_TYPE", "repair": true},
-  {"name": "CHECK_REQUIRED", "args": ["id", "email"], "repair": false},
+  {"name": "CHECK_REQUIRED", "args": ["id", "email", "address"], "repair": false},
   {"name": "NORMALIZE", "repair": true},
   {"name": "GRADE_MAPPER", "repair": true},
   {"name": "DEDUPLICATE", "repair": false},

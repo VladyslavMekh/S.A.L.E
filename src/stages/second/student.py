@@ -1,5 +1,4 @@
 from typing import Dict, Any, List
-import statistics
 
 class Student:      # In this class performs data mapping.
 
@@ -32,4 +31,4 @@ class Student:      # In this class performs data mapping.
 
 
     def __str__(self) -> str:
-        return f"{self.name} ({self.id}) - Avg: {self.avg_grade():.2f}"
+        return f"{self.name} ({self.id}) - Avg: {self.avg_grade():.1f}"
