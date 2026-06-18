@@ -52,10 +52,10 @@ Clears data as follows:
 * **name:** Format the name and surname so that they start with capital letters, correctly handling two-part surnames.
 * **phone:** If the phone number has an area code, it should be wrapped in (). Additionally, if some characters in the phone number have been written in a different variant alphabet, they should be replaced with equivalents from the "European standard" (e.g.: ٢١٣٧ -> 2137).
 * **ratings:**
-    ‣ If sent as a string: Check whether some characters have been inserted
-    as subscript (e.g.: (\u8324) ₄) and replace them with "normal" if necessary
-    equivalent. Please remove the + or - signs preceding some of the ratings.
-    ‣ Regardless of format: Shorten decimal expansion to a maximum of one place.
+  If sent as a string: Check whether some characters have been inserted
+  as subscript (e.g.: (\u8324) ₄) and replace them with "normal" if necessary
+  quivalent. Please remove the + or - signs preceding some of the ratings.
+  Regardless of format: Shorten decimal expansion to a maximum of one place.
 
 *[FIX]* If first or last name is missing, assigns NO DATA.
 
