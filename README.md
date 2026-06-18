@@ -83,4 +83,14 @@ Final options are only allowed as the last elements of the processing chain. If 
 
 ## Analize Data And Raporting
 
+Using the pandas library, load previously cleaned and sorted data from the .json file, to perform the following analyzes and present the results.
+
 ![Image](https://github.com/VladyslavMekh/S.A.L.E/blob/main/src/data/output/visualization.png "Vizualization file, output.")
+
+**1. Console Table:** Data for all students should be divided into three groups/baskets based on their grade point average: "At-Risk": < 3.0, "Average": 3.0-4.0, "Top Students": > 4.0. Then create a table for each of these groups. In each table, students should be grouped by their email address domain (e.g., pejot.edu.pl, uw.edu.pl, pjwstk.edu.pl). The table should contain three statistics for each domain: grade point average, maximum grade, and total number of students. The table formatting is optional and is the student's responsibility.
+
+**2. Vizualization Panel:** The panel consists of three graphs in one main program window.
+Each graph should be labeled and include axis labels, scales, and data labels so that the data represented is legible to a user unfamiliar with the program.
+* **[Bar chart]** Shows the TOP 10 students with the highest average. The color of the bar depends on any potential "slips": if the student's lowest grade for the semester is 3.5 or higher, the bar should be green; otherwise, it should be red. The captions (name and surname) must appear below the bars at a 45-degree angle.
+* **[Pie chart]** Represents the percentage share of individual email domains in the entire dataset. The slice of the graph representing the most popular domain should be visually prominent. Additionally, each slice should have its own unique color.
+* **[Scatter plot]** Represents the percentage share of individual email domains in the entire dataset. The slice of the graph representing the most popular domain should be visually prominent. Additionally, each slice should have its own unique color.
