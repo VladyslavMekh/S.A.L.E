@@ -22,15 +22,15 @@ class SALEApp:
         pipeline = Pipeline(self.config_file)
         cleaned = pipeline.process(self.students)
 
-        with open("src/data/output/s33307_quarantine.json", "w", encoding="utf-8") as f:
+        with open("src/data/output/quarantine.json", "w", encoding="utf-8") as f:
             json.dump(dict(pipeline.quarantine), f, indent=2, ensure_ascii=False)
 
         cleaned.sort(key=lambda s: (-s.avg_grade(), s.name))
 
-        path_to_raport = "src/data/output/s33307_raport.json"
+        path_to_raport = "src/data/output/raport.json"
         Analyzer(cleaned, path_to_raport)
 
-        print(f"Processing complete. Exported to s33307_raport.json")
+        print(f"Processing complete. Exported to raport.json")
         # print(f"Quarantine saved. Total processed: {len(cleaned)}")
 
         analyzer = Analyzer(cleaned, path_to_raport)
