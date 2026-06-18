@@ -81,5 +81,5 @@ class Analyzer:
         axs[2].set_title('Avg vs Variance')
 
         plt.tight_layout()
-        plt.savefig('/Users/vladyslavmekh/Desktop/S.A.L.E/src/data/output/visualization.png')
+        plt.savefig('src/data/output/visualization.png')
         plt.show()
