@@ -34,6 +34,8 @@ In this stage, the data streamed from the Stage 1 generator enters a dynamic pro
     * The repaire record is re-evaluated by the same filter.
     * If it fails a second time, it is officially moved to Quarantine, and the pipeline proceeds to the next item.
 
+## Filters
+
 ### 1 Check Type:
 Checks whether the values ​​in an element have the expected character type or characters within the appropriate range. For example, whether a phone number is only numeric characters after removing separators, whether an email address contains only one @ sign and does not contain any illegal characters, etc.
 
