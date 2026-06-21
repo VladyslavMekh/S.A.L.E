@@ -1,0 +1,2461 @@
+{
+  "CHECKSUM": [
+    {
+      "name": "Tomasz Magier",
+      "id": "STU-156852",
+      "address": "Dolnośląskie",
+      "grades": [
+        2.0,
+        5.0,
+        5.0,
+        4.0
+      ],
+      "phone": "(+48) 179-418-940",
+      "email": "tadeuszlusiak@pjatk.edu.pl"
+    },
+    {
+      "name": "Norbert Knapek",
+      "id": "STU-011952",
+      "address": "Dolnośląskie",
+      "grades": [
+        3.5,
+        2.0,
+        4.0,
+        3.0,
+        3.5
+      ],
+      "phone": "835-209-494",
+      "email": "cweabl@pejot.edu.pl"
+    },
+    {
+      "name": "Kornel Kala",
+      "id": "STU-771733",
+      "address": "Pomorskie",
+      "grades": [
+        3.5,
+        4.5,
+        4.5,
+        3.5,
+        3.5
+      ],
+      "phone": "(+48) 995-542-131",
+      "email": "yeaeaf@pw.edu.pl"
+    },
+    {
+      "name": "Róża Poniedziałek",
+      "id": "STU-349487",
+      "address": "Mazowieckie",
+      "grades": [
+        2.0,
+        4.0,
+        4.0,
+        4.0,
+        3.1,
+        3.0
+      ],
+      "phone": "141-302-443",
+      "email": "olnmzq@uj.edu.pl"
+    },
+    {
+      "name": "Andrzej Kuboń",
+      "id": "STU-473386",
+      "address": "Dolnośląskie",
+      "grades": [
+        4.0,
+        3.1,
+        3.0,
+        4.5
+      ],
+      "phone": "(+48) 474-705-418",
+      "email": "xdhsst@pjatk.edu.pl"
+    },
+    {
+      "name": "Paweł Janke",
+      "id": "STU-744053",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.0,
+        3.5,
+        3.6,
+        4.5,
+        4.5,
+        4.0
+      ],
+      "phone": "851-331-306",
+      "email": "sinddt@uj.edu.pl"
+    },
+    {
+      "name": "Maciej Nitek",
+      "id": "STU-960799",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        4.6,
+        3.5,
+        2.0,
+        5.0,
+        4.5,
+        4.1
+      ],
+      "phone": "(+48) 466-922-505",
+      "email": "bgaejd@onet.pl"
+    },
+    {
+      "name": "Michał Kycia",
+      "id": "STU-896249",
+      "address": "Pomorskie",
+      "grades": [
+        4.5,
+        2.0
+      ],
+      "phone": "840-898-589",
+      "email": "treymq@pjatk.edu.pl"
+    },
+    {
+      "name": "Dominik Forysiak",
+      "id": "STU-610057",
+      "address": "Dolnośląskie",
+      "grades": [
+        1.0,
+        2.0,
+        4.5,
+        2.1,
+        2.0,
+        2.0
+      ],
+      "phone": "856-913-779",
+      "email": "jtiemg@pjatk.edu.pl"
+    },
+    {
+      "name": "Bruno Działak Cebulak",
+      "id": "STU-923406",
+      "address": "Pomorskie",
+      "grades": [
+        2.0,
+        3.0,
+        4.5,
+        2.0,
+        4.0
+      ],
+      "phone": "(+48) 298-349-558",
+      "email": "rzxjwc@uj.edu.pl"
+    },
+    {
+      "name": "Fabian Kajstura",
+      "id": "STU-971216",
+      "address": "Pomorskie",
+      "grades": [
+        1.0,
+        2.0,
+        3.5
+      ],
+      "phone": "277-785-226",
+      "email": "nkxkln@onet.pl"
+    },
+    {
+      "name": "Ignacy Walocha",
+      "id": "STU-668442",
+      "address": "Śląskie",
+      "grades": [
+        4.0,
+        5.0,
+        2.1,
+        4.0
+      ],
+      "phone": "725-155-957",
+      "email": "dmoqqv@pw.edu.pl"
+    },
+    {
+      "name": "Dominik Ciesiółka",
+      "id": "STU-419847",
+      "address": "Wielkopolskie",
+      "grades": [
+        2.0,
+        4.0,
+        4.0,
+        3.0,
+        3.0
+      ],
+      "phone": "(+48) 869-749-433",
+      "email": "sprhso@pjatk.edu.pl"
+    },
+    {
+      "name": "Miłosz Kozaczuk Minkina",
+      "id": "STU-924458",
+      "address": "Pomorskie",
+      "grades": [
+        4.0,
+        3.0,
+        5.0,
+        4.1,
+        4.5
+      ],
+      "phone": "303-114-548",
+      "email": "bwzqmd@onet.pl"
+    },
+    {
+      "name": "Witold Świerkot",
+      "id": "STU-340772",
+      "address": "Pomorskie",
+      "grades": [
+        4.0,
+        4.5
+      ],
+      "phone": "(+48) 575-248-225",
+      "email": "yrvpdg@uw.edu.pl"
+    },
+    {
+      "name": "Kamil Marko Wiencek",
+      "id": "STU-309217",
+      "address": "Lubelskie",
+      "grades": [
+        4.6,
+        4.0,
+        4.0,
+        4.1
+      ],
+      "phone": "(+48) 288-732-418",
+      "email": "heoacj@wp.pl"
+    },
+    {
+      "name": "Maurycy Sobuś Malon",
+      "id": "STU-910498",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.5,
+        3.5,
+        3.5,
+        5.0,
+        2.0,
+        4.5
+      ],
+      "phone": "(+48) 267-944-981",
+      "email": "ffqwbw@pw.edu.pl"
+    },
+    {
+      "name": "Sara Cichowlas",
+      "id": "STU-090831",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.5,
+        5.0,
+        4.0,
+        5.0,
+        5.0
+      ],
+      "phone": "955-662-596",
+      "email": "kswlks@pw.edu.pl"
+    },
+    {
+      "name": "Aurelia Stawowczyk",
+      "id": "STU-884113",
+      "address": "Lubelskie",
+      "grades": [
+        4.1,
+        4.0,
+        2.0,
+        4.0,
+        3.5
+      ],
+      "phone": "(+48) 564-152-511",
+      "email": "cablgx@pejot.edu.pl"
+    },
+    {
+      "name": "Adrian Ochał",
+      "id": "STU-086848",
+      "address": "Dolnośląskie",
+      "grades": [
+        5.0,
+        4.5,
+        3.5,
+        4.0
+      ],
+      "phone": "769-418-164",
+      "email": "pgvuia@wp.pl"
+    },
+    {
+      "name": "Piotr Taczała",
+      "id": "STU-271946",
+      "address": "Śląskie",
+      "grades": [
+        3.0,
+        5.0,
+        2.0
+      ],
+      "phone": "202-835-469",
+      "email": "jfoaok@wp.pl"
+    },
+    {
+      "name": "Szymon Mielcarz",
+      "id": "STU-667092",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.5,
+        3.5,
+        3.0,
+        5.0
+      ],
+      "phone": "465-225-885",
+      "email": "jpnspx@pw.edu.pl"
+    },
+    {
+      "name": "Kajetan Korek",
+      "id": "STU-285301",
+      "address": "Dolnośląskie",
+      "grades": [
+        4.1,
+        3.1,
+        4.5
+      ],
+      "phone": "155-817-431",
+      "email": "cgqyeo@wp.pl"
+    },
+    {
+      "name": "Sylwia Lipok",
+      "id": "STU-198173",
+      "address": "Śląskie",
+      "grades": [
+        5.0,
+        4.0,
+        3.5
+      ],
+      "phone": "160-944-341",
+      "email": "ljrokl@onet.pl"
+    },
+    {
+      "name": "Anastazja Kudłacik",
+      "id": "STU-546196",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "phone": "877-647-374",
+      "email": "vuldvh@uj.edu.pl"
+    },
+    {
+      "name": "Marcelina Oczko Sugier",
+      "id": "STU-093340",
+      "address": "Pomorskie",
+      "grades": [
+        3.1,
+        5.0
+      ],
+      "phone": "(+48) 875-733-649",
+      "email": "ziyxpa@onet.pl"
+    },
+    {
+      "name": "Marcelina Szczypiór Olas",
+      "id": "STU-677773",
+      "address": "Mazowieckie",
+      "grades": [
+        3.0,
+        2.0,
+        2.0,
+        5.0,
+        3.5
+      ],
+      "phone": "(+48) 780-197-111",
+      "email": "lumwnt@onet.pl"
+    },
+    {
+      "name": "Aleks Mainka",
+      "id": "STU-534775",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.5,
+        3.0,
+        2.0,
+        4.5
+      ],
+      "phone": "(+48) 745-447-195",
+      "email": "pudtdq@pejot.edu.pl"
+    },
+    {
+      "name": "Kornelia Kozaczuk",
+      "id": "STU-778311",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        4.5,
+        4.1,
+        3.5
+      ],
+      "phone": "328-862-458",
+      "email": "kgxxvy@pejot.edu.pl"
+    },
+    {
+      "name": "Emil Dacko",
+      "id": "STU-521122",
+      "address": "Mazowieckie",
+      "grades": [
+        3.5,
+        4.5
+      ],
+      "phone": "518-481-931",
+      "email": "pdsyab@wp.pl"
+    },
+    {
+      "name": "Jeremi Cecot",
+      "id": "STU-027016",
+      "address": "Dolnośląskie",
+      "grades": [
+        4.0,
+        4.5,
+        3.0
+      ],
+      "phone": "(+48) 772-496-625",
+      "email": "bakuih@uw.edu.pl"
+    },
+    {
+      "name": "Igor Dycha",
+      "id": "STU-175497",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        4.0,
+        3.5
+      ],
+      "phone": "(+48) 176-695-787",
+      "email": "avuqvw@uw.edu.pl"
+    },
+    {
+      "name": "Anastazja Hałka",
+      "id": "STU-950939",
+      "address": "Dolnośląskie",
+      "grades": [
+        1.0,
+        2.0,
+        3.0,
+        3.5,
+        4.0
+      ],
+      "phone": "(+48) 398-595-813",
+      "email": "jwyzvh@pejot.edu.pl"
+    },
+    {
+      "name": "Albert Stoltman Matejczuk",
+      "id": "STU-246886",
+      "address": "Wielkopolskie",
+      "grades": [
+        2.0,
+        4.1,
+        3.5,
+        4.0,
+        4.1,
+        4.5
+      ],
+      "phone": "(+48) 220-(+48) 8-908",
+      "email": "qwsmpb@wp.pl"
+    },
+    {
+      "name": "Marek Tatarczuk",
+      "id": "STU-552389",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.0,
+        2.0,
+        5.0,
+        3.0,
+        4.5
+      ],
+      "phone": "937-963-934",
+      "email": "dmtpsf@wp.pl"
+    },
+    {
+      "name": "Blanka Stanisławek Gierak",
+      "id": "STU-723988",
+      "address": "Śląskie",
+      "grades": [
+        3.0,
+        4.6,
+        3.5
+      ],
+      "phone": "(+48) 291-237-192",
+      "email": "cxwcyh@pjatk.edu.pl"
+    },
+    {
+      "name": "Ada Fiołek",
+      "id": "STU-065272",
+      "address": "Mazowieckie",
+      "grades": [
+        2.1,
+        5.0,
+        2.0,
+        4.0
+      ],
+      "phone": "(+48) 792-631-725",
+      "email": "ptbjru@wp.pl"
+    },
+    {
+      "name": "Piotr Maksimowicz",
+      "id": "STU-105257",
+      "address": "Wielkopolskie",
+      "grades": [
+        2.1,
+        3.0,
+        3.6,
+        4.5,
+        3.5
+      ],
+      "phone": "(+48) 422-993-997",
+      "email": "yafzqz@uw.edu.pl"
+    },
+    {
+      "name": "Tadeusz Doroszkiewicz",
+      "id": "STU-706633",
+      "address": "Śląskie",
+      "grades": [
+        3.0,
+        3.0,
+        4.0,
+        3.5
+      ],
+      "phone": "534-863-114",
+      "email": "wxdjff@uw.edu.pl"
+    },
+    {
+      "name": "Marcelina Ważna Szybiak",
+      "id": "STU-480206",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        5.0,
+        3.6,
+        2.0,
+        4.5
+      ],
+      "phone": "(+48) 716-402-801",
+      "email": "agwbfy@pw.edu.pl"
+    },
+    {
+      "name": "Nataniel Rurarz",
+      "id": "STU-367023",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.0,
+        4.0,
+        2.1,
+        3.0,
+        3.0
+      ],
+      "phone": "(+48) 407-122-337",
+      "email": "ewtakm@onet.pl"
+    },
+    {
+      "name": "Juliusz Zięciak Beśka",
+      "id": "STU-660720",
+      "address": "Mazowieckie",
+      "grades": [
+        4.5,
+        3.0,
+        3.5,
+        4.5,
+        2.0,
+        3.0
+      ],
+      "phone": "(+48) 948-539-571",
+      "email": "ezlist@uj.edu.pl"
+    },
+    {
+      "name": "Sonia Gęsiarz",
+      "id": "STU-951032",
+      "address": "Mazowieckie",
+      "grades": [
+        4.0,
+        4.0,
+        3.1,
+        2.0,
+        4.5
+      ],
+      "phone": "456-239-697",
+      "email": "meauvl@pejot.edu.pl"
+    },
+    {
+      "name": "Jacek Bejma",
+      "id": "STU-381258",
+      "address": "Dolnośląskie",
+      "grades": [
+        3.0,
+        2.0,
+        3.0,
+        5.0
+      ],
+      "phone": "316-699-794",
+      "email": "iogmrp@wp.pl"
+    },
+    {
+      "name": "Kacper Krzosek",
+      "id": "STU-200454",
+      "address": "Lubelskie",
+      "grades": [
+        3.0,
+        3.0,
+        4.0,
+        3.5,
+        3.5
+      ],
+      "phone": "(+48) 699-182-448",
+      "email": "gtczmx@pw.edu.pl"
+    },
+    {
+      "name": "Borys Dybał Klisz",
+      "id": "STU-837337",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.5,
+        4.6,
+        3.0,
+        3.0,
+        3.5
+      ],
+      "phone": "(+48) 137-530-243",
+      "email": "pqkinl@uj.edu.pl"
+    },
+    {
+      "name": "Sandra Damek",
+      "id": "STU-513558",
+      "address": "Lubelskie",
+      "grades": [
+        3.6,
+        4.0,
+        3.5,
+        4.0,
+        4.5
+      ],
+      "phone": "376-295-474",
+      "email": "krqwsq@onet.pl"
+    },
+    {
+      "name": "Józef Skocz",
+      "id": "STU-480412",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.5,
+        4.6,
+        3.1
+      ],
+      "phone": "(+48) 789-919-657",
+      "email": "geiupt@wp.pl"
+    },
+    {
+      "name": "Marek Langier",
+      "id": "STU-543893",
+      "address": "Mazowieckie",
+      "grades": [
+        2.1,
+        2.0,
+        2.1,
+        4.0
+      ],
+      "phone": "(+48) 770-565-225",
+      "email": "dqfidc@uj.edu.pl"
+    },
+    {
+      "name": "Fryderyk Cofała Fik",
+      "id": "STU-582151",
+      "address": "Dolnośląskie",
+      "grades": [
+        3.0,
+        4.0,
+        4.5,
+        2.0
+      ],
+      "phone": "(+48) 421-765-271",
+      "email": "rqfslx@uw.edu.pl"
+    },
+    {
+      "name": "Ewa Galos",
+      "id": "STU-496867",
+      "address": "Pomorskie",
+      "grades": [
+        4.5,
+        4.5,
+        4.5
+      ],
+      "phone": "(+48) 109-119-111",
+      "email": "aguaho@pw.edu.pl"
+    },
+    {
+      "name": "Szymon Żurawik",
+      "id": "STU-051811",
+      "address": "Pomorskie",
+      "grades": [
+        3.0,
+        3.5,
+        4.0,
+        4.6
+      ],
+      "phone": "611-803-605",
+      "email": "cjtvtj@pjatk.edu.pl"
+    },
+    {
+      "name": "Tobiasz Tyma",
+      "id": "STU-612791",
+      "address": "Śląskie",
+      "grades": [
+        4.5,
+        4.0,
+        3.0,
+        4.6
+      ],
+      "phone": "(+48) 589-200-799",
+      "email": "bduegn@uj.edu.pl"
+    },
+    {
+      "name": "Juliusz Kacperek",
+      "id": "STU-164459",
+      "address": "Śląskie",
+      "grades": [
+        3.5,
+        2.0,
+        5.0,
+        3.0,
+        3.5
+      ],
+      "phone": "(+48) 753-194-931",
+      "email": "zzjdrs@pejot.edu.pl"
+    },
+    {
+      "name": "Tola Więcławek",
+      "id": "STU-962647",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        4.5,
+        2.1,
+        3.0,
+        4.6,
+        5.0
+      ],
+      "phone": "168-863-614",
+      "email": "euamnv@onet.pl"
+    },
+    {
+      "name": "Anna Maria Pawliczak",
+      "id": "STU-440264",
+      "address": "Śląskie",
+      "grades": [
+        3.0,
+        3.1,
+        3.5,
+        3.5
+      ],
+      "phone": "662-221-739",
+      "email": "mkryle@pw.edu.pl"
+    },
+    {
+      "name": "Ewelina Gramza",
+      "id": "STU-970412",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.0,
+        3.5,
+        4.0,
+        3.0,
+        3.6
+      ],
+      "phone": "253-633-608",
+      "email": "aeofyd@wp.pl"
+    },
+    {
+      "name": "Marcel Rogacz",
+      "id": "STU-659447",
+      "address": "Pomorskie",
+      "grades": [
+        1.0,
+        2.0,
+        5.0,
+        5.0
+      ],
+      "phone": "142-794-591",
+      "email": "fixoqd@onet.pl"
+    },
+    {
+      "name": "Józef Hak",
+      "id": "STU-214152",
+      "address": "Mazowieckie",
+      "grades": [
+        2.0,
+        2.0
+      ],
+      "phone": "(+48) 570-741-557",
+      "email": "htwrun@wp.pl"
+    },
+    {
+      "name": "Adam Dyczko",
+      "id": "STU-616495",
+      "address": "Lubelskie",
+      "grades": [
+        1.0,
+        2.0,
+        3.6,
+        3.5,
+        4.5
+      ],
+      "phone": "430-954-723",
+      "email": "vkrggk@pejot.edu.pl"
+    },
+    {
+      "name": "Natasza Młotek",
+      "id": "STU-916967",
+      "address": "Pomorskie",
+      "grades": [
+        4.0,
+        3.0,
+        3.5,
+        3.5,
+        3.0
+      ],
+      "phone": "326-504-579",
+      "email": "mjkjyv@uw.edu.pl"
+    },
+    {
+      "name": "Michał Kurc",
+      "id": "STU-208701",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.5,
+        3.0,
+        4.0
+      ],
+      "phone": "305-911-854",
+      "email": "nafker@pjatk.edu.pl"
+    },
+    {
+      "name": "Wiktor Noszczyk",
+      "id": "STU-978836",
+      "address": "Mazowieckie",
+      "grades": [
+        2.0,
+        3.1,
+        3.5,
+        2.0,
+        3.1,
+        3.0
+      ],
+      "phone": "466-631-777",
+      "email": "jqshlu@pw.edu.pl"
+    },
+    {
+      "name": "Fryderyk Herda",
+      "id": "STU-479645",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        2.1,
+        4.0,
+        3.6
+      ],
+      "phone": "(+48) 753-788-348",
+      "email": "jacjlb@pw.edu.pl"
+    },
+    {
+      "name": "Wiktor Ośka Graś",
+      "id": "STU-118835",
+      "address": "Mazowieckie",
+      "grades": [
+        4.1,
+        4.5,
+        4.0
+      ],
+      "phone": "832-217-747",
+      "email": "emclfm@pw.edu.pl"
+    },
+    {
+      "name": "Kaja Stosik",
+      "id": "STU-335424",
+      "address": "Śląskie",
+      "grades": [
+        2.0,
+        5.0,
+        3.5,
+        3.5
+      ],
+      "phone": "(+48) 842-124-359",
+      "email": "thpxnn@uj.edu.pl"
+    },
+    {
+      "name": "Justyna Kolbusz",
+      "id": "STU-815546",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.0,
+        2.0,
+        4.0,
+        4.5,
+        4.6,
+        2.0
+      ],
+      "phone": "778-835-233",
+      "email": "dshfuk@pejot.edu.pl"
+    },
+    {
+      "name": "Adam Brózda",
+      "id": "STU-999030",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        4.5,
+        4.5,
+        4.1,
+        3.0,
+        3.1,
+        3.0
+      ],
+      "phone": "159-148-205",
+      "email": "ftxadj@wp.pl"
+    },
+    {
+      "name": "Marcin Mitek",
+      "id": "STU-844915",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.0,
+        4.0,
+        2.0
+      ],
+      "phone": "124-415-936",
+      "email": "dgwvxy@uw.edu.pl"
+    },
+    {
+      "name": "Monika Markiel",
+      "id": "STU-981140",
+      "address": "Wielkopolskie",
+      "grades": [
+        2.0,
+        2.0,
+        3.0,
+        4.0,
+        3.5
+      ],
+      "phone": "(+48) 435-812-765",
+      "email": "kguivc@uj.edu.pl"
+    },
+    {
+      "name": "Adrian Kolman Rduch",
+      "id": "STU-602373",
+      "address": "Lubelskie",
+      "grades": [
+        4.5,
+        2.0,
+        4.6,
+        5.0,
+        3.5
+      ],
+      "phone": "216-164-314",
+      "email": "cvvkxj@pw.edu.pl"
+    },
+    {
+      "name": "Nikodem Szymaniuk",
+      "id": "STU-066903",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        5.0,
+        2.0,
+        3.0
+      ],
+      "phone": "113-168-735",
+      "email": "nmogzb@wp.pl"
+    },
+    {
+      "name": "Anita Wardzała",
+      "id": "STU-448305",
+      "address": "Mazowieckie",
+      "grades": [
+        4.5,
+        3.5,
+        2.0,
+        3.5,
+        2.1
+      ],
+      "phone": "(+48) 675-126-794",
+      "email": "hbdsjx@pjatk.edu.pl"
+    },
+    {
+      "name": "Marcel Pabis",
+      "id": "STU-849179",
+      "address": "Mazowieckie",
+      "grades": [
+        3.5,
+        3.6,
+        2.0,
+        4.0,
+        4.5
+      ],
+      "phone": "443-326-869",
+      "email": "bwmutf@pjatk.edu.pl"
+    },
+    {
+      "name": "Bartek Filusz Tadla",
+      "id": "STU-682079",
+      "address": "Dolnośląskie",
+      "grades": [
+        5.0,
+        4.5
+      ],
+      "phone": "(+48) 298-612-608",
+      "email": "bcoyof@pjatk.edu.pl"
+    },
+    {
+      "name": "Aniela Czerepak",
+      "id": "STU-400773",
+      "address": "Dolnośląskie",
+      "grades": [
+        4.5,
+        5.0,
+        2.0,
+        4.1,
+        4.0
+      ],
+      "phone": "(+48) 764-354-402",
+      "email": "iltnpv@onet.pl"
+    },
+    {
+      "name": "Konstanty Wiza",
+      "id": "STU-740541",
+      "address": "Śląskie",
+      "grades": [
+        2.1,
+        3.5,
+        2.0,
+        3.5
+      ],
+      "phone": "(+48) 423-908-922",
+      "email": "onjbmp@pjatk.edu.pl"
+    },
+    {
+      "name": "Sara Matyjas Więckiewicz",
+      "id": "STU-960215",
+      "address": "Pomorskie",
+      "grades": [
+        5.0,
+        2.0,
+        5.0,
+        2.0,
+        3.5,
+        5.0
+      ],
+      "phone": "(+48) 866-123-216",
+      "email": "gzpyzy@uw.edu.pl"
+    },
+    {
+      "name": "Julian Troka",
+      "id": "STU-008698",
+      "address": "Pomorskie",
+      "grades": [
+        3.0,
+        5.0,
+        3.0,
+        4.0
+      ],
+      "phone": "(+48) 525-265-759",
+      "email": "phikhs@pw.edu.pl"
+    },
+    {
+      "name": "Marianna Romejko Myk",
+      "id": "STU-972116",
+      "address": "Dolnośląskie",
+      "grades": [
+        4.0,
+        2.1,
+        4.5,
+        2.0
+      ],
+      "phone": "(+48) 810-303-491",
+      "email": "nthngs@pjatk.edu.pl"
+    },
+    {
+      "name": "Szymon Deluga",
+      "id": "STU-435113",
+      "address": "Śląskie",
+      "grades": [
+        4.0,
+        3.5,
+        3.1
+      ],
+      "phone": "461-270-832",
+      "email": "goltlk@wp.pl"
+    },
+    {
+      "name": "Eryk Bernatek",
+      "id": "STU-322037",
+      "address": "Mazowieckie",
+      "grades": [
+        5.0,
+        4.1,
+        3.5,
+        4.0,
+        5.0
+      ],
+      "phone": "(+48) 679-142-504",
+      "email": "zatsfa@pw.edu.pl"
+    },
+    {
+      "name": "Kajetan Kołtuniak",
+      "id": "STU-836416",
+      "address": "Śląskie",
+      "grades": [
+        3.0,
+        4.0,
+        4.5,
+        4.0,
+        3.5
+      ],
+      "phone": "139-818-685",
+      "email": "gsdvua@wp.pl"
+    },
+    {
+      "name": "Józef Damian",
+      "id": "STU-315240",
+      "address": "Mazowieckie",
+      "grades": [
+        2.0,
+        5.0,
+        2.0,
+        5.0,
+        4.0
+      ],
+      "phone": "(+48) 6-346-782",
+      "email": "wvbtkb@uj.edu.pl"
+    },
+    {
+      "name": "Oliwier Pitek",
+      "id": "STU-801385",
+      "address": "Pomorskie",
+      "grades": [
+        4.0,
+        4.0,
+        3.5
+      ],
+      "phone": "(+48) 252-409-418",
+      "email": "jcvymb@pw.edu.pl"
+    },
+    {
+      "name": "Kalina Lampart Wojcik",
+      "id": "STU-907633",
+      "address": "Lubelskie",
+      "grades": [
+        1.0,
+        2.0,
+        4.5,
+        3.5,
+        3.5,
+        3.5
+      ],
+      "phone": "(+48) 208-267-324",
+      "email": "pjrbey@uj.edu.pl"
+    },
+    {
+      "name": "Karol Konieczek",
+      "id": "STU-689684",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.5,
+        4.0,
+        4.5,
+        3.5
+      ],
+      "phone": "374-144-139",
+      "email": "xsxgws@pw.edu.pl"
+    },
+    {
+      "name": "Grzegorz Szpyt",
+      "id": "STU-940970",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.5,
+        5.0,
+        4.1,
+        4.6
+      ],
+      "phone": "(+48) 236-812-812",
+      "email": "tubnfp@wp.pl"
+    },
+    {
+      "name": "Roksana Sacharczuk Bazyluk",
+      "id": "STU-666789",
+      "address": "Wielkopolskie",
+      "grades": [
+        2.0,
+        3.5
+      ],
+      "phone": "(+48) 938-613-364",
+      "email": "alqjpl@pejot.edu.pl"
+    },
+    {
+      "name": "Radosław Rosłon",
+      "id": "STU-984497",
+      "address": "Dolnośląskie",
+      "grades": [
+        5.0,
+        3.6,
+        4.0,
+        3.5,
+        5.0
+      ],
+      "phone": "(+48) 266-239-776",
+      "email": "qnexys@uj.edu.pl"
+    },
+    {
+      "name": "Kornelia Sieja Karpik",
+      "id": "STU-651566",
+      "address": "Wielkopolskie",
+      "grades": [
+        4.0,
+        4.5,
+        5.0
+      ],
+      "phone": "110-947-366",
+      "email": "tksmrm@uw.edu.pl"
+    },
+    {
+      "name": "Michał Palus",
+      "id": "STU-143679",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.0,
+        4.0,
+        5.0,
+        4.5,
+        2.0,
+        4.6
+      ],
+      "phone": "(+48) 661-446-341",
+      "email": "reptmn@uw.edu.pl"
+    },
+    {
+      "name": "Olaf Kowaluk",
+      "id": "STU-254566",
+      "address": "Lubelskie",
+      "grades": [
+        5.0,
+        3.0,
+        3.5
+      ],
+      "phone": "446-868-344",
+      "email": "kawnhl@pjatk.edu.pl"
+    },
+    {
+      "name": "Agnieszka Kadela",
+      "id": "STU-657295",
+      "address": "Śląskie",
+      "grades": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "phone": "(+48) 949-668-394",
+      "email": "dvgwat@pjatk.edu.pl"
+    },
+    {
+      "name": "Krystyna Klos Sklorz",
+      "id": "STU-136595",
+      "address": "Pomorskie",
+      "grades": [
+        2.0,
+        3.1,
+        2.0,
+        3.0
+      ],
+      "phone": "813-720-558",
+      "email": "flgfmp@pw.edu.pl"
+    },
+    {
+      "name": "Adam Gumienny Rzeźniczek",
+      "id": "STU-321140",
+      "address": "Mazowieckie",
+      "grades": [
+        5.0,
+        4.5
+      ],
+      "phone": "(+48) 295-997-993",
+      "email": "rfhdmz@pjatk.edu.pl"
+    },
+    {
+      "name": "Franciszek Chuchla",
+      "id": "STU-897477",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.5,
+        4.5,
+        2.0,
+        4.0
+      ],
+      "phone": "139-885-773",
+      "email": "bucuqx@pejot.edu.pl"
+    },
+    {
+      "name": "Dagmara Burczak",
+      "id": "STU-465107",
+      "address": "Lubelskie",
+      "grades": [
+        4.6,
+        4.0,
+        2.0,
+        3.5,
+        4.0,
+        4.5
+      ],
+      "phone": "(+48) 567-695-323",
+      "email": "xytaiq@uw.edu.pl"
+    },
+    {
+      "name": "Józef Zielke",
+      "id": "STU-683589",
+      "address": "Wielkopolskie",
+      "grades": [
+        4.5,
+        4.6,
+        3.5,
+        4.0,
+        2.0,
+        4.1
+      ],
+      "phone": "354-416-158",
+      "email": "paudds@onet.pl"
+    },
+    {
+      "name": "Ewa Stempin",
+      "id": "STU-707777",
+      "address": "Śląskie",
+      "grades": [
+        4.1,
+        3.6,
+        3.0,
+        4.0
+      ],
+      "phone": "368-969-343",
+      "email": "ooawba@pw.edu.pl"
+    },
+    {
+      "name": "Adrianna Wojtarowicz",
+      "id": "STU-486191",
+      "address": "Dolnośląskie",
+      "grades": [
+        3.5,
+        3.5,
+        3.6
+      ],
+      "phone": "(+48) 129-407-777",
+      "email": "aexkyf@pw.edu.pl"
+    },
+    {
+      "name": "Michał Maksym",
+      "id": "STU-783648",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        4.5,
+        3.6,
+        4.5
+      ],
+      "phone": "987-417-107",
+      "email": "dxrnhq@uj.edu.pl"
+    }
+  ],
+  "CHECK_REQUIRED": [
+    {
+      "name": "None",
+      "id": "STU-993564",
+      "address": "Dolnośląskie",
+      "grades": [
+        3.0,
+        5.0
+      ],
+      "phone": "15",
+      "email": "osipiuktola@pw.edu.pl"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-523533",
+      "address": "Dolnośląskie",
+      "grades": [
+        3.5287
+      ],
+      "phone": "154-230-106",
+      "email": "GADZALABLAZEJ@PJATK.EDU.PL"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-970078",
+      "address": "Kujawsko-pomorskie",
+      "grades": [
+        4.5,
+        2.0,
+        2.0,
+        2.07659,
+        5.0
+      ],
+      "phone": "+48 521-193-111",
+      "email": "lpobdW@Pw.eDU.pl"
+    },
+    {
+      "name": "None",
+      "id": "STU-489656",
+      "address": "Kujawsko-pomorskie",
+      "grades": [
+        3.07975,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "phone": "797-727-679",
+      "email": "ddakxe@pw.edu.pl"
+    },
+    {
+      "name": "None",
+      "id": "STU-157913",
+      "address": "Pomorskie",
+      "grades": [
+        4.5,
+        5.0,
+        4.58504,
+        2.05211,
+        3.0
+      ],
+      "phone": "+48 530-540-901",
+      "email": "dsbvuf@uw.edu.pl"
+    },
+    {
+      "name": "None",
+      "id": "STU-549817",
+      "address": "Pomorskie",
+      "grades": [
+        2.0,
+        3.5,
+        2.0,
+        3.5,
+        5.0
+      ],
+      "phone": "995-277-655",
+      "email": "QkZblj@uj.EdU.pL"
+    },
+    {
+      "name": "None",
+      "id": "STU-694997",
+      "address": "Kujawsko-pomorskie",
+      "grades": [
+        3.51841,
+        4.53445,
+        3.0,
+        3.58197
+      ],
+      "phone": "౯౭౯-౪౧౧-౫౧౮",
+      "email": "chjOmg@uW.EDU.pL"
+    },
+    {
+      "name": "None",
+      "id": "STU-981791",
+      "address": "Mazowieckie",
+      "grades": [
+        4.5,
+        3.07736,
+        3.5,
+        3.55627,
+        3.5,
+        4.5
+      ],
+      "phone": "+48 861-969-875",
+      "email": "ZORkJV@wP.PL"
+    },
+    {
+      "name": "None",
+      "id": "STU-212822",
+      "address": "Kujawsko-pomorskie",
+      "grades": [
+        4.54738,
+        3.5,
+        3.5
+      ],
+      "phone": "౩౫౯-౬౮౫-౭౫౯",
+      "email": "iwebpx@onet.pl"
+    },
+    {
+      "name": "None",
+      "id": "STU-495827",
+      "address": "Mazowieckie",
+      "grades": [
+        3.5,
+        4.51858,
+        4.5
+      ],
+      "phone": "+48 809-931-115",
+      "email": "hVlGvg@PEJOt.eDu.Pl"
+    },
+    {
+      "name": "None",
+      "id": "STU-555317",
+      "address": "Kujawsko-pomorskie",
+      "grades": [
+        4.51324,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "phone": "598-499-730",
+      "email": "fVGRQK@pEjoT.eDu.Pl"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-793460",
+      "address": "Pomorskie",
+      "grades": [
+        4.0,
+        2.04984,
+        4.53535,
+        4.0,
+        4.0,
+        3.56936
+      ],
+      "phone": "380-845-656",
+      "email": "MmFqgc@PEJot.EDU.PL"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-977504",
+      "address": "Wielkopolskie",
+      "grades": [
+        2.0,
+        5.0,
+        4.0,
+        4.0,
+        4.55695
+      ],
+      "phone": "+48 249-526-182",
+      "email": "trblcf@pjatk.edu.pl"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-367695",
+      "address": "Śląskie",
+      "grades": [
+        3.09353,
+        4.5,
+        3.0,
+        3.08687,
+        2.0393
+      ],
+      "phone": "౨౬౯-౭౪౨-౪౭౦",
+      "email": "tUPEXG@wP.Pl"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-909724",
+      "address": "Kujawsko-pomorskie",
+      "grades": [
+        3.06429,
+        3.0,
+        4.5339
+      ],
+      "phone": "+48 982-589-651",
+      "email": "mjhivj@ONeT.Pl"
+    },
+    {
+      "name": "None",
+      "id": "STU-040246",
+      "address": "Śląskie",
+      "grades": [
+        4.54,
+        3.0,
+        4.02633
+      ],
+      "phone": "+48 224-786-105",
+      "email": "hNKKuZ@wP.PL"
+    },
+    {
+      "name": "None",
+      "id": "STU-692119",
+      "address": "Kujawsko-pomorskie",
+      "grades": [
+        5.0,
+        2.0,
+        4.59726,
+        4.0
+      ],
+      "phone": "+48 134-740-341",
+      "email": "xEJUJn@pJAtk.eDu.Pl"
+    },
+    {
+      "name": "None",
+      "id": "STU-929684",
+      "address": "Pomorskie",
+      "grades": [
+        4.58258,
+        4.0,
+        3.5
+      ],
+      "phone": "౮౮౪-౩౫౭-౪౨౪",
+      "email": "amuwke@uj.edu.pl"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-466319",
+      "address": "Pomorskie",
+      "grades": [
+        5.0,
+        3.5,
+        4.56859
+      ],
+      "phone": "156-996-518",
+      "email": "kIPTjl@peJot.eDu.pL"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-691829",
+      "address": "Kujawsko-pomorskie",
+      "grades": [
+        4.5316,
+        5.0,
+        3.5,
+        3.0,
+        2.0,
+        3.0
+      ],
+      "phone": "+48 364-235-530",
+      "email": "jyOIHI@PJaTk.edu.pL"
+    },
+    {
+      "name": "NAN",
+      "id": "STU-436637",
+      "address": "Mazowieckie",
+      "grades": [
+        3.5,
+        4.5815,
+        3.04038,
+        2.08194,
+        2.0
+      ],
+      "phone": "+48 612-964-380",
+      "email": "xCycYa@wP.pL"
+    }
+  ],
+  "DEDUPLICATE": [
+    {
+      "name": "Kacper Rozynek",
+      "id": "STU-348783",
+      "address": "Lubelskie",
+      "grades": [
+        1.0,
+        2.0
+      ],
+      "phone": "579-939-963",
+      "email": "kangps@pejot.edu.pl"
+    },
+    {
+      "name": "Daniel Korniak",
+      "id": "STU-284535",
+      "address": "Pomorskie",
+      "grades": [
+        3.0,
+        4.5,
+        2.0,
+        3.0,
+        3.1
+      ],
+      "phone": "611-369-990",
+      "email": "urvath@wp.pl"
+    },
+    {
+      "name": "Norbert Knapek",
+      "id": "STU-734372",
+      "address": "Lubelskie",
+      "grades": [
+        3.5
+      ],
+      "phone": "(+48) 821-468-702",
+      "email": "ezxtix@wp.pl"
+    },
+    {
+      "name": "Kornel Kala",
+      "id": "STU-155333",
+      "address": "Mazowieckie",
+      "grades": [
+        4.5,
+        3.5,
+        4.0
+      ],
+      "phone": "796-908-842",
+      "email": "qetcis@pjatk.edu.pl"
+    },
+    {
+      "name": "Konstanty Garczyk",
+      "id": "STU-337177",
+      "address": "Śląskie",
+      "grades": [
+        4.5,
+        3.0,
+        3.0
+      ],
+      "phone": "(+48) 542-379-967",
+      "email": "hpwmnk@wp.pl"
+    },
+    {
+      "name": "Olaf Sajewicz",
+      "id": "STU-129735",
+      "address": "Wielkopolskie",
+      "grades": [
+        2.0,
+        2.0,
+        4.5,
+        4.5,
+        3.0
+      ],
+      "phone": "(+48) 857-514-634",
+      "email": "feqryc@uj.edu.pl"
+    },
+    {
+      "name": "Karol Mućko Steckiewicz",
+      "id": "STU-942558",
+      "address": "Pomorskie",
+      "grades": [
+        2.0,
+        4.0,
+        3.0,
+        4.5,
+        3.0
+      ],
+      "phone": "319-907-785",
+      "email": "pgpvme@pjatk.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-211507",
+      "address": "Śląskie",
+      "grades": [
+        2.0,
+        4.0,
+        3.0
+      ],
+      "phone": "699-444-869",
+      "email": "vqxfpn@uj.edu.pl"
+    },
+    {
+      "name": "Jacek Kasper",
+      "id": "STU-779791",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        2.1,
+        3.5,
+        4.0,
+        4.5,
+        2.0
+      ],
+      "phone": "(+48) 266-165-861",
+      "email": "wmtwni@pejot.edu.pl"
+    },
+    {
+      "name": "Ada Grzebyk",
+      "id": "STU-784943",
+      "address": "Dolnośląskie",
+      "grades": [
+        2.0,
+        3.0,
+        4.0
+      ],
+      "phone": "(+48) 717-616-785",
+      "email": "heqmoq@pw.edu.pl"
+    },
+    {
+      "name": "Fabian Kajstura",
+      "id": "STU-840140",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.5,
+        3.0,
+        5.0,
+        2.0,
+        5.0
+      ],
+      "phone": "(+48) 525-407-621",
+      "email": "obqgik@pjatk.edu.pl"
+    },
+    {
+      "name": "Kazimierz Ciochoń",
+      "id": "STU-784943",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.6,
+        4.0,
+        5.0
+      ],
+      "phone": "(+48) 848-110-654",
+      "email": "mlssnc@pw.edu.pl"
+    },
+    {
+      "name": "Kalina Hojda",
+      "id": "STU-944896",
+      "address": "Dolnośląskie",
+      "grades": [
+        1.0,
+        2.0,
+        3.6,
+        3.5,
+        3.5,
+        2.0
+      ],
+      "phone": "272-334-765",
+      "email": "xpeprb@pjatk.edu.pl"
+    },
+    {
+      "name": "Tomasz Stelmasiak",
+      "id": "STU-699501",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        2.0,
+        3.5,
+        2.1,
+        4.0
+      ],
+      "phone": "635-983-169",
+      "email": "hltkux@pjatk.edu.pl"
+    },
+    {
+      "name": "Lidia Basaj",
+      "id": "STU-173371",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.5,
+        4.0,
+        2.0
+      ],
+      "phone": "129-886-508",
+      "email": "tyohvi@pjatk.edu.pl"
+    },
+    {
+      "name": "Jan Łukasiuk Kusztal",
+      "id": "STU-784943",
+      "address": "Dolnośląskie",
+      "grades": [
+        3.0,
+        5.0,
+        3.0,
+        4.5,
+        3.0
+      ],
+      "phone": "188-818-671",
+      "email": "zrzysq@uw.edu.pl"
+    },
+    {
+      "name": "Konrad Groth",
+      "id": "STU-183006",
+      "address": "Wielkopolskie",
+      "grades": [
+        2.1,
+        4.6,
+        4.5
+      ],
+      "phone": "(+48) 111-468-158",
+      "email": "bpiwzr@onet.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-161922",
+      "address": "Dolnośląskie",
+      "grades": [
+        4.6,
+        2.0,
+        5.0,
+        2.0,
+        4.5,
+        4.1
+      ],
+      "phone": "406-449-453",
+      "email": "hocpiw@uw.edu.pl"
+    },
+    {
+      "name": "Tola Wardziak",
+      "id": "STU-460264",
+      "address": "Lubelskie",
+      "grades": [
+        5.0,
+        2.0,
+        4.5
+      ],
+      "phone": "(+48) 461-440-107",
+      "email": "ugpcku@onet.pl"
+    },
+    {
+      "name": "Marianna Fidler",
+      "id": "STU-034726",
+      "address": "Lubelskie",
+      "grades": [
+        4.0,
+        4.0,
+        4.6,
+        4.5,
+        3.5
+      ],
+      "phone": "(+48) 854-758-209",
+      "email": "htzelc@onet.pl"
+    },
+    {
+      "name": "Angelika Kościelak",
+      "id": "STU-350447",
+      "address": "Śląskie",
+      "grades": [
+        1.0,
+        2.0,
+        4.0
+      ],
+      "phone": "(+48) 766-478-117",
+      "email": "jjeqpt@onet.pl"
+    },
+    {
+      "name": "Justyna Samul",
+      "id": "STU-348783",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.0,
+        3.5,
+        5.0,
+        4.5
+      ],
+      "phone": "765-986-649",
+      "email": "jcprkq@uw.edu.pl"
+    },
+    {
+      "name": "Stefan Lisoń Ciesiółka",
+      "id": "STU-313108",
+      "address": "Mazowieckie",
+      "grades": [
+        4.0,
+        3.5,
+        3.5,
+        4.5
+      ],
+      "phone": "289-374-930",
+      "email": "rjkotn@pw.edu.pl"
+    },
+    {
+      "name": "Aurelia Stawowczyk",
+      "id": "STU-906027",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        2.0,
+        3.0,
+        3.1,
+        3.5,
+        2.1,
+        3.6
+      ],
+      "phone": "281-793-208",
+      "email": "gkabtl@onet.pl"
+    },
+    {
+      "name": "Andrzej Kuboń",
+      "id": "STU-439270",
+      "address": "Wielkopolskie",
+      "grades": [
+        4.5,
+        4.0,
+        3.5
+      ],
+      "phone": "(+48) 617-912-507",
+      "email": "yvzmbu@pejot.edu.pl"
+    },
+    {
+      "name": "Stefan Lisoń Ciesiółka",
+      "id": "STU-820384",
+      "address": "Mazowieckie",
+      "grades": [
+        2.1,
+        3.0,
+        3.6
+      ],
+      "phone": "(+48) 597-233-867",
+      "email": "nkjinl@uj.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-921066",
+      "address": "Dolnośląskie",
+      "grades": [
+        3.5,
+        3.0,
+        4.0,
+        3.6
+      ],
+      "phone": "229-858-414",
+      "email": "cxyhlf@pw.edu.pl"
+    },
+    {
+      "name": "Patryk Księżak",
+      "id": "STU-748376",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.0,
+        3.6,
+        3.5,
+        4.0
+      ],
+      "phone": "(+48) 835-541-694",
+      "email": "bqywwb@uj.edu.pl"
+    },
+    {
+      "name": "Emil Dacko",
+      "id": "STU-706070",
+      "address": "Dolnośląskie",
+      "grades": [
+        4.0,
+        3.5,
+        4.5,
+        3.6
+      ],
+      "phone": "901-743-116",
+      "email": "lkpwox@pejot.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-342527",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.0,
+        3.5
+      ],
+      "phone": "615-446-463",
+      "email": "mtuapw@uw.edu.pl"
+    },
+    {
+      "name": "Marianna Pośnik",
+      "id": "STU-104974",
+      "address": "Lubelskie",
+      "grades": [
+        4.0,
+        3.0,
+        3.0,
+        3.5,
+        3.5,
+        4.5
+      ],
+      "phone": "(+48) 304-327-894",
+      "email": "kykllt@onet.pl"
+    },
+    {
+      "name": "Borys Siedlik",
+      "id": "STU-290357",
+      "address": "Pomorskie",
+      "grades": [
+        3.0,
+        5.0,
+        5.0,
+        3.0
+      ],
+      "phone": "508-887-928",
+      "email": "bjteic@wp.pl"
+    },
+    {
+      "name": "Anita Olearczyk",
+      "id": "STU-609469",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        5.0,
+        3.1,
+        3.0,
+        4.5
+      ],
+      "phone": "613-885-189",
+      "email": "vuozzc@uj.edu.pl"
+    },
+    {
+      "name": "Dorota Leszczak Owsianka",
+      "id": "STU-899494",
+      "address": "Pomorskie",
+      "grades": [
+        5.0,
+        4.5,
+        2.1
+      ],
+      "phone": "(+48) 547-412-838",
+      "email": "bljkff@pjatk.edu.pl"
+    },
+    {
+      "name": "Arkadiusz Kinal",
+      "id": "STU-625278",
+      "address": "Mazowieckie",
+      "grades": [
+        4.5,
+        2.0,
+        4.5,
+        4.5,
+        3.0
+      ],
+      "phone": "(+48) 454-736-992",
+      "email": "isgjxk@wp.pl"
+    },
+    {
+      "name": "Kamil Marko Wiencek",
+      "id": "STU-116789",
+      "address": "Dolnośląskie",
+      "grades": [
+        2.0,
+        5.0,
+        2.0
+      ],
+      "phone": "426-195-560",
+      "email": "cflgtj@pjatk.edu.pl"
+    },
+    {
+      "name": "Cezary Bawoł",
+      "id": "STU-959031",
+      "address": "Wielkopolskie",
+      "grades": [
+        5.0,
+        4.0,
+        3.5,
+        5.0,
+        4.0,
+        5.0
+      ],
+      "phone": "(+48) 927-333-216",
+      "email": "eztfxl@uw.edu.pl"
+    },
+    {
+      "name": "Inga Patora",
+      "id": "STU-376674",
+      "address": "Wielkopolskie",
+      "grades": [
+        3.0,
+        3.0,
+        4.5,
+        2.0
+      ],
+      "phone": "(+48) 214-476-731",
+      "email": "sablms@uw.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-797942",
+      "address": "Śląskie",
+      "grades": [
+        3.0,
+        3.0,
+        4.5,
+        2.0,
+        4.6,
+        2.0
+      ],
+      "phone": "105-885-450",
+      "email": "pwfnfv@pw.edu.pl"
+    },
+    {
+      "name": "Kazimierz Widłak",
+      "id": "STU-869047",
+      "address": "Śląskie",
+      "grades": [
+        3.0,
+        5.0,
+        4.0,
+        4.5,
+        5.0,
+        2.0
+      ],
+      "phone": "(+48) 140-867-129",
+      "email": "lfhgmh@pejot.edu.pl"
+    },
+    {
+      "name": "Apolonia Kłoczko Kózka",
+      "id": "STU-284793",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        2.0,
+        3.0,
+        5.0,
+        2.1,
+        4.0,
+        2.1
+      ],
+      "phone": "(+48) 909-683-132",
+      "email": "yrquad@uw.edu.pl"
+    },
+    {
+      "name": "Karol Mućko Steckiewicz",
+      "id": "STU-815496",
+      "address": "Mazowieckie",
+      "grades": [
+        1.0,
+        2.0,
+        4.5,
+        4.0,
+        4.5,
+        3.0
+      ],
+      "phone": "(+48) 405-803-287",
+      "email": "yormgs@wp.pl"
+    },
+    {
+      "name": "Roksana Rogal",
+      "id": "STU-439705",
+      "address": "Mazowieckie",
+      "grades": [
+        4.0,
+        2.0,
+        4.0
+      ],
+      "phone": "332-360-154",
+      "email": "otqlmw@wp.pl"
+    },
+    {
+      "name": "Alex Zuziak",
+      "id": "STU-606633",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        4.5,
+        5.0,
+        4.5,
+        3.5
+      ],
+      "phone": "929-303-787",
+      "email": "wxqfux@pw.edu.pl"
+    },
+    {
+      "name": "Daniel Korniak",
+      "id": "STU-691250",
+      "address": "Pomorskie",
+      "grades": [
+        4.5,
+        5.0,
+        4.0,
+        4.5,
+        3.5,
+        4.5
+      ],
+      "phone": "(+48) 277-885-546",
+      "email": "xfropj@onet.pl"
+    },
+    {
+      "name": "Wiktor Banak",
+      "id": "STU-319275",
+      "address": "Śląskie",
+      "grades": [
+        4.5,
+        4.5,
+        5.0
+      ],
+      "phone": "970-883-621",
+      "email": "vasres@onet.pl"
+    },
+    {
+      "name": "Patryk Larysz",
+      "id": "STU-430268",
+      "address": "Mazowieckie",
+      "grades": [
+        4.0,
+        2.1,
+        5.0
+      ],
+      "phone": "410-439-206",
+      "email": "lobrto@pejot.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-828333",
+      "address": "Śląskie",
+      "grades": [
+        3.0,
+        3.5,
+        3.5,
+        3.0,
+        2.1,
+        2.0
+      ],
+      "phone": "(+48) 398-350-447",
+      "email": "nlmddr@onet.pl"
+    },
+    {
+      "name": "Tadeusz Doroszkiewicz",
+      "id": "STU-912265",
+      "address": "Lubelskie",
+      "grades": [
+        5.0,
+        3.6,
+        2.0
+      ],
+      "phone": "(+48) 931-575-582",
+      "email": "gvgdmy@uw.edu.pl"
+    },
+    {
+      "name": "Radosław Frelich",
+      "id": "STU-786967",
+      "address": "Mazowieckie",
+      "grades": [
+        3.5,
+        5.0,
+        2.0
+      ],
+      "phone": "710-856-232",
+      "email": "tcsuuz@pw.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-517677",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        2.0,
+        2.1,
+        4.0,
+        4.0
+      ],
+      "phone": "(+48) 658-923-174",
+      "email": "kiitmm@pw.edu.pl"
+    },
+    {
+      "name": "Liwia Rzeźniczak",
+      "id": "STU-539028",
+      "address": "Dolnośląskie",
+      "grades": [
+        5.0,
+        2.0,
+        4.0,
+        4.5,
+        4.1
+      ],
+      "phone": "237-245-639",
+      "email": "pmqtml@uw.edu.pl"
+    },
+    {
+      "name": "Aurelia Stawowczyk",
+      "id": "STU-107686",
+      "address": "Wielkopolskie",
+      "grades": [
+        1.0,
+        2.0,
+        3.5,
+        5.0,
+        5.0
+      ],
+      "phone": "449-673-617",
+      "email": "vtcgvz@onet.pl"
+    },
+    {
+      "name": "Arkadiusz Saternus",
+      "id": "STU-352752",
+      "address": "Pomorskie",
+      "grades": [
+        5.0,
+        4.1,
+        2.1,
+        2.0,
+        5.0
+      ],
+      "phone": "146-581-823",
+      "email": "yzzspc@pjatk.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-296751",
+      "address": "Pomorskie",
+      "grades": [
+        3.5,
+        5.0,
+        4.5,
+        3.5,
+        2.0,
+        3.6
+      ],
+      "phone": "(+48) 693-357-765",
+      "email": "cxtkkt@onet.pl"
+    },
+    {
+      "name": "Aurelia Kretowicz Domian",
+      "id": "STU-846762",
+      "address": "Pomorskie",
+      "grades": [
+        4.5,
+        3.0,
+        5.0,
+        4.0
+      ],
+      "phone": "763-528-643",
+      "email": "ksvxqi@wp.pl"
+    },
+    {
+      "name": "Aleks Fijałek",
+      "id": "STU-387535",
+      "address": "Dolnośląskie",
+      "grades": [
+        1.0,
+        2.0,
+        4.0
+      ],
+      "phone": "854-576-506",
+      "email": "camevg@onet.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-581420",
+      "address": "Kujawsko Pomorskie",
+      "grades": [
+        3.0,
+        2.0,
+        3.1,
+        3.5
+      ],
+      "phone": "660-230-426",
+      "email": "vosqlv@pjatk.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-608811",
+      "address": "Mazowieckie",
+      "grades": [
+        3.6,
+        2.0,
+        5.0
+      ],
+      "phone": "(+48) 925-247-606",
+      "email": "qunqnx@onet.pl"
+    },
+    {
+      "name": "Marek Langier",
+      "id": "STU-535853",
+      "address": "Pomorskie",
+      "grades": [
+        3.0,
+        3.0,
+        2.0,
+        2.0,
+        3.1,
+        4.5
+      ],
+      "phone": "(+48) 2-652-875",
+      "email": "nzybxx@pjatk.edu.pl"
+    },
+    {
+      "name": "Cyprian Raźniak",
+      "id": "STU-185468",
+      "address": "Lubelskie",
+      "grades": [
+        2.0,
+        2.0,
+        4.1,
+        4.5,
+        2.0,
+        2.0
+      ],
+      "phone": "(+48) 421-116-533",
+      "email": "zbldmp@pw.edu.pl"
+    },
+    {
+      "name": "Damian Kniaź",
+      "id": "STU-942698",
+      "address": "Pomorskie",
+      "grades": [
+        4.0,
+        4.0,
+        3.0,
+        2.0,
+        4.6
+      ],
+      "phone": "558-723-165",
+      "email": "walbni@uw.edu.pl"
+    },
+    {
+      "name": "N",
+      "id": "STU-614268",
+      "address": "Mazowieckie",
+      "grades": [
+        4.0,
+        5.0,
+        4.5,
+        4.6
+      ],
+      "phone": "(+48) 983-469-297",
+      "email": "bjktog@pw.edu.pl"
+    }
+  ]
+}

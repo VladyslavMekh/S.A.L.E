@@ -1,0 +1,10 @@
+[
+  {"name": "CHECK_TYPE", "repair": true},
+  {"name": "CHECK_REQUIRED", "args": ["id", "email", "address"], "repair": false},
+  {"name": "NORMALIZE", "repair": true},
+  {"name": "GRADE_MAPPER", "repair": true},
+  {"name": "DEDUPLICATE", "repair": false},
+  {"name": "CHECKSUM", "repair": true},
+  {"name": "SORT", "args": ["grades_avg:desc", "name:asc"]},
+  {"name": "EXPORT_JSON"}
+]
