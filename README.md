@@ -85,7 +85,7 @@ Final options are only allowed as the last elements of the processing chain. If 
 
 Using the pandas library, load previously cleaned and sorted data from the .json file, to perform the following analyzes and present the results.
 
-![Image](https://github.com/VladyslavMekh/S.A.L.E/blob/main/src/data/output/visualization.png "Vizualization file, output.")
+![Image](https://github.com/VladyslavMekh/S.A.L.E/blob/main/data/output/visualization.png "Vizualization file, output.")
 
 **1. Console Table:** Data for all students should be divided into three groups/baskets based on their grade point average: "At-Risk": < 3.0, "Average": 3.0-4.0, "Top Students": > 4.0. Then create a table for each of these groups. In each table, students should be grouped by their email address domain (e.g., pejot.edu.pl, uw.edu.pl, pjwstk.edu.pl). The table should contain three statistics for each domain: grade point average, maximum grade, and total number of students. The table formatting is optional and is the student's responsibility.
 
